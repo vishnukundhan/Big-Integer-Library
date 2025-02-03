@@ -1,9 +1,9 @@
 # Big-Integer-Library
 
-##Large Number Arithmetic Library
+# Large Number Arithmetic Library
 This repository contains a C++ implementation of a library for performing arithmetic operations on large numbers represented as strings. The library supports addition, subtraction, multiplication, division, and calculations of Fibonacci numbers, factorials, and Catalan numbers.
 
-##Features
+# Features
 Addition of Large Numbers: Adds two large numbers represented as strings.
 Subtraction of Large Numbers: Subtracts one large number from another.
 Multiplication of Large Numbers: Multiplies two large numbers.
